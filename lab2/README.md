@@ -1,0 +1,2 @@
+#### Task 2 (deadline 26.02.2020 24:00)
+* It would be best if you created a pandas DataFrame of the texts from the previous task. And apply to the DataFrame the function 'get_hyperonyms,' which must return the list of the corresponding hypernyms from the text automatically. If there are errors or misses, you should fix them in the code for your case of the 24 words. Nevertheless, it is strictly prohibited to use hard coding. Save your notebook with parser code within the lab2 folder in your NLP git-repo.
